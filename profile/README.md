@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-<div align="center"><strong>A mix of Japanese countryside, science and (mostly) friendly people.</strong><br> We hope ypu find what you were looking for here.
+<div align="center"><strong>A mix of Japanese countryside, science and (mostly) friendly people.</strong><br> We hope you find what you were looking for here.
 </div>
 <br />
 <br />

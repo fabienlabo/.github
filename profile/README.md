@@ -5,6 +5,7 @@
 
 <div align="center">
     <a href="https://github.com/fabienlabo/scripts">Lab scripts</a> |
+    <a href="https://github.com/fabienlabo/generic-latex-template">LaTeX template</a> |
     <a href="https://www.tsukuba.ac.jp/en/">University  of Tsukuba</a>
 </div>
 

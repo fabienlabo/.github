@@ -1,7 +1,4 @@
-<div align="center">
-<img alt="lab banner pic" src="https://github.com/fabienlabo/.github/blob/master/labpicgithub.png">
-<br/>
-<br/>
+#  Welcome to the Fabien Lab github page
 
 <div align="center">
   <!---  <a href="https://github.com/fabienlabo/scripts">Lab scripts</a> | --->
